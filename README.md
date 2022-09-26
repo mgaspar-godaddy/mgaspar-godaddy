@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 My name is Matt Gaspar and I currently work at GoDaddy as a Principal Engineer.
 
 - 🔭 I’m currently working on monitoring and observability things at GoDaddy
-- 👾 I'm fairly proficient at:
-  - Python, Bash, Ruby
-  - Puppet, Salt, Chef, Ansible
-  - Linux
-  - Jenkins
-  - Git
-  - Documentation
+- 👾 I'm proficient at:
+  - 🐍 Python
+  - #️⃣ Bash
+  - 💎 Ruby
+  - 🧂 Salt, Puppet, Chef, Ansible
+  - 🐧 Linux
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="20px" /> Jenkins
+  - <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="20px" /> Git
+  - 📄 Documentation
+- I like to camp 🏕 fish 🎣 play guitar 🎸 and explore 🏔
