@@ -28,3 +28,4 @@ My name is Matt Gaspar and I currently work at GoDaddy as a Principal Engineer.
   - <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="20px" /> Git
   - 📄 Documentation
 - I like to camp 🏕 fish 🎣 play guitar 🎸 and explore 🏔
+- ✈️ traveling is fun
